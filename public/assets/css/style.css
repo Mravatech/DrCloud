@@ -47,6 +47,11 @@ File: Main Css File
       width: 26% !important;
 }
 
+.head{
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+
 .notify-icon-right {
     float: left;
     height: 36px;
